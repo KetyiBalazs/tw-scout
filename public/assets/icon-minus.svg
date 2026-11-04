@@ -1,0 +1,21 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Italic Text" filter="url(#filter0_d_0_553)">
+<mask id="path-1-inside-1_0_553" fill="white">
+<path d="M10 19C10 11.268 16.268 5 24 5V5C31.732 5 38 11.268 38 19V19C38 26.732 31.732 33 24 33V33C16.268 33 10 26.732 10 19V19Z"/>
+</mask>
+<path d="M10 19C10 11.268 16.268 5 24 5V5C31.732 5 38 11.268 38 19V19C38 26.732 31.732 33 24 33V33C16.268 33 10 26.732 10 19V19Z" fill="#FFDAC9"/>
+<path d="M10 19M38 19M38 19M10 19M24 5M38 19M24 33M10 19M24 33V32C16.8203 32 11 26.1797 11 19H10H9C9 27.2843 15.7157 34 24 34V33ZM38 19H37C37 26.1797 31.1797 32 24 32V33V34C32.2843 34 39 27.2843 39 19H38ZM24 5V6C31.1797 6 37 11.8203 37 19H38H39C39 10.7157 32.2843 4 24 4V5ZM24 5V4C15.7157 4 9 10.7157 9 19H10H11C11 11.8203 16.8203 6 24 6V5Z" fill="#FFF7F3" mask="url(#path-1-inside-1_0_553)"/>
+<path id="&#226;&#136;&#146;" d="M27.1818 18.4432V19.5568H20.8182V18.4432H27.1818Z" fill="#342019"/>
+</g>
+<defs>
+<filter id="filter0_d_0_553" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="5"/>
+<feGaussianBlur stdDeviation="5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.969783 0 0 0 0 0.463774 0 0 0 0 0.29661 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_553"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_553" result="shape"/>
+</filter>
+</defs>
+</svg>

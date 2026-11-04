@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Italic Text" filter="url(#filter0_d_0_549)">
+<path d="M10 19C10 11.268 16.268 5 24 5V5C31.732 5 38 11.268 38 19V19C38 26.732 31.732 33 24 33V33C16.268 33 10 26.732 10 19V19Z" fill="#FFF7F3"/>
+<path id="+" d="M23.4432 22.2812V15.7188H24.5568V22.2812H23.4432ZM20.7188 19.5568V18.4432H27.2813V19.5568H20.7188Z" fill="#342019"/>
+</g>
+<defs>
+<filter id="filter0_d_0_549" x="0" y="0" width="48" height="48" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="5"/>
+<feGaussianBlur stdDeviation="5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.969783 0 0 0 0 0.463774 0 0 0 0 0.29661 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_549"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_549" result="shape"/>
+</filter>
+</defs>
+</svg>
